@@ -1,0 +1,22 @@
+.register-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 150px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+.form-control {
+    display: block !important;
+    margin: 10px 0px !important;
+}
+
+.already-register-section {
+    margin: 10px 0px;
+    display: flex;
+    align-items: flex-start;
+}
